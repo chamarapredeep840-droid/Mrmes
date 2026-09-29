@@ -1,0 +1,6 @@
+{
+  "name": "FF Meme Soundboard Pro",
+  "description": "Free Fire gaming mic meme soundboard with floating window overlay, live mic mixer passthrough, and custom meme audio management.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
